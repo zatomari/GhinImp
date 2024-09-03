@@ -10,7 +10,7 @@ public class AttackCalculator
         return attacks.Sum() / attacks.Count();
     };
 
-    
+
     // Метод для вычисления среднего показателя силы атаки
     public double CalculateAverageAttack(Character character)
     {
